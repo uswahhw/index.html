@@ -17,7 +17,7 @@
 <div class="container">
     <div class="section" id="about">
         <h2>Tentang Saya</h2>
-        <p>Halo, nama saya [Nama Anda]. Saya adalah seorang pengembang web dengan keahlian dalam HTML, CSS, dan JavaScript. Saya suka menciptakan solusi web yang menarik dan fungsional.</p>
+        <p>Saya itu anak ke 4 dari 4 bersodara,saya itu senang memasak,senang mendengarkan lagu,senang bermain bersama kelinci,senang bermain bersama anak kecil,senang traveling bersama keluarga,suka melihat pemandangan pemandangan bagus,contohnya gunung pantai ataw air terjun,sya juga senang bercerita dan bermain bersama teman,suka bermotoran hehehe walawpun tida ada tujuan,cita cita saya itu ingin keterima di kampus akademi kepolisian,dan ingin menjadi polwan,kalaw tidak polwan ya kedokteran udah si itu aja.</p>
     </div>
 
     <div class="section" id="projects">
