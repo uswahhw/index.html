@@ -29,6 +29,8 @@
                 <p>3. Pesantren Ibnu Abbas ( 2 Tahun )</p>
                 <p>4. SMP Muhammadiyah</p>
                 <p>5. SMAN 3 Kota Serang</p>
+                <p>6. Universitas Akademi Kepolisian</p>
+                <p>7. Universitas Kedokteran</p>
             </div>
             <div class="project-item">
                 <h3>Proyek 2</h3>
