@@ -20,7 +20,6 @@
     </div>
 <header>
     <div class="section" id="projects">
-        <h2>Proyek</h2>
         <div class="project">
             <div class="project-item">
                 <h3>Riwayat Pendidikan</h3>
@@ -33,12 +32,6 @@
                 <p>7. Universitas Kedokteran</p>
             </div>
             <div class="project-item">
-                <h3>Proyek 2</h3>
-                <p>Deskripsi singkat tentang proyek 2.</p>
-            </div>
-            <div class="project-item">
-                <h3>Proyek 3</h3>
-                <p>Deskripsi singkat tentang proyek 3.</p>
             </div>
         </div>
     </div>
