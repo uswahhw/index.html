@@ -7,7 +7,7 @@
 </head>
 <body>
 
-![alt teks](?raw=true)
+![alt teks](https://github.com/uswahhw/index.html/blob/main/fdc801e2-c77c-4758-bdaa-6120021b501a.jpg?raw=true)
 
 <header>
     <h1>Portfolio Saya</h1>
