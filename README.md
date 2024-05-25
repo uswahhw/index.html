@@ -24,6 +24,7 @@
             <div class="project-item">
                 <h3>Riwayat Pendidikan</h3>
             <header>
+            </header>
                 <p>1. TK Bina Ul Ummah</p>
                 <p>2. SDN Buah Gede</p>
                 <p>3. Pesantren Ibnu Abbas ( 2 Tahun )</p>
@@ -31,7 +32,6 @@
                 <p>5. SMAN 3 Kota Serang</p>
                 <p>6. Universitas Akademi Kepolisian</p>
                 <p>7. Universitas Kedokteran</p>
-            </header>
             </div>
             <div class="project-item">
             </div>
