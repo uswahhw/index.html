@@ -38,7 +38,7 @@
 </header>
 <header>
         <h2>Kontak</h2>
-        <p>Anda dapat menghubungi saya melalui email: <a href="mailto:email@example.com">email@example.com</a></p>
+        <p>Anda dapat menghubungi saya melalui email: <a href="mailto:email@example.com">uswatunhasanah22062007@gmail.com</a></p>
     </div>
 </header>
 
